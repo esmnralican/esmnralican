@@ -1,4 +1,4 @@
-[![MasterHead] https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.fb.com%2F2016%2F12%2F01%2Fml-applications%2Fartificial-intelligence-revealed%2F&psig=AOvVaw3pWicdML47kn3Y5cghhz5Z&ust=1707053375311000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjq7sSjj4QDFQAAAAAdAAAAABAE
+[![MasterHead] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.fb.com%2F2016%2F12%2F01%2Fml-applications%2Fartificial-intelligence-revealed%2F&psig=AOvVaw3pWicdML47kn3Y5cghhz5Z&ust=1707053375311000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjq7sSjj4QDFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Esmanur Alican</h1>
 <h3 align="center">I 'm interested in AI world.</h3>
