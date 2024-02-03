@@ -1,4 +1,4 @@
-[![MasterHead](https://engineering.fb.com/wp-content/uploads/2016/12/grid-AI.jpg)
+![MasterHead](https://engineering.fb.com/wp-content/uploads/2016/12/grid-AI.jpg)
 
 <h1 align="center">Hi 👋, I'm Esmanur Alican</h1>
 <h3 align="center">I 'm interested in AI world.</h3>
