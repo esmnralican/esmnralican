@@ -23,4 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmnralican&" alt="esmnralican" /></p>
 
+![snake gif]
 https://github.com/esmnralican/esmnralican/blob/output/github-contribution-grid-snake.gif
